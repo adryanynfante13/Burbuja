@@ -1,4 +1,4 @@
-**commit:** Ordenamiento por Burbuja 🫧
+ Ordenamiento por Burbuja 🫧
 **autor:** S.A Ynfante Valero 
 **fecha:** [06/08/2024
 
@@ -10,6 +10,5 @@ Implementación del algoritmo de ordenamiento por burbuja en Java.
 *  **Visualización:** Se imprime el arreglo en cada paso para ver el proceso.
 
 **Cambios:**
-* ✅ Añadida la función `ordenarBurbuja` para implementar el algoritmo.
-*  Añadidos comentarios para explicar el código.
-*  Añadida la impresión del arreglo en cada paso para visualizar el ordenamiento.
+* ✅ Función `ordenarBurbuja` para implementar el algoritmo.
+
